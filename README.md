@@ -22,6 +22,7 @@ The raw distance data is inherently noisy; therefore, a **moving average filter*
 
 The system outputs sound through a piezo buzzer or speaker, while an optional LED provides a real-time visual indicator of amplitude. Data from both sensors, the quantized note frequency, and the mapped duty cycle are continuously streamed to the Arduino Serial Plotter for real-time visualization.  
 
+👉 [Click here to view and simulate the project in Tinkercad](https://www.tinkercad.com/things/XXXX-theremin-project)
 ---
 
 ## Components  
